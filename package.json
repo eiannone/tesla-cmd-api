@@ -1,0 +1,16 @@
+{
+  "name": "@eiannone/tesla-cmd-api",
+  "version": "0.0.1",
+  "description": "Nodejs Tesla API",
+  "type": "module",
+  "main": "index.js",
+  "author": "Emanuele Iannone",
+  "license": "MIT",
+  "repository": "eiannone/tesla-cmd-api",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "eckey-utils": "^0.7.13",
+    "elliptic": "^6.5.4",
+    "protobufjs": "^7.2.5"
+  }
+}
